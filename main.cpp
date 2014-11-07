@@ -11,7 +11,7 @@
 using namespace std;
 
 double func (double x) {
-    return x*x;
+    return x;
 }
 
 //формула левых прямоугольников
